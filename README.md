@@ -22,5 +22,8 @@ sudo microk8s enable dns storage ingress metallb:10.64.140.43-10.64.140.49
 - https://charmed-kubeflow.io/docs/install
 - https://kubernetes.io/docs/setup/production-environment/tools/kops/
 - https://learn.hashicorp.com/tutorials/terraform/install-cli
+- https://learn.hashicorp.com/tutorials/terraform/aws-build
+- https://computingforgeeks.com/how-to-install-grafana-on-debian-linux/
+- https://grafana.com/tutorials/grafana-fundamentals/?utm_source=grafana_gettingstarted
 
 
